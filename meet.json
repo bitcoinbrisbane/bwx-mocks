@@ -1,0 +1,27 @@
+{
+    "races": [
+        {
+            "start": "0001-01-01T00:00:00",
+            "number": 0,
+            "name": "R7 1200m Hcap",
+            "id": "1.165624701"
+        },
+        {
+            "start": "0001-01-01T00:00:00",
+            "number": 0,
+            "name": "R8 1200m Grp1",
+            "id": "1.165624703"
+        },
+        {
+            "start": "0001-01-01T00:00:00",
+            "number": 0,
+            "name": "R9 1200m Hcap",
+            "id": "1.165624705"
+        }
+    ],
+    "name": "Asct (AUS) 30th Nov",
+    "meetDate": "0001-01-01T00:00:00",
+    "location": "Ascot",
+    "country": null,
+    "id": "29600446"
+}
